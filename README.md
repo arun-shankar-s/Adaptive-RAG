@@ -79,16 +79,16 @@ The frontend calls the backend at `http://127.0.0.1:8001`.
 
 ### Parsed Chunks
 
-![Parsed chunks](parse.png)
+![Parsed chunks](Screenshots/parse.png)
 
 ### Knowledge Base
 
-![Knowledge-base indexing](knowledge_base.png)
+![Knowledge Base](Screenshots/knowledge_base.png)
 
 ### Q&A
 
-![Document Q&A](QA.png)
+![Q&A](Screenshots/QA.png)
 
 ## Author
 
-Not specified in the project files.
+Arun Shankar S
