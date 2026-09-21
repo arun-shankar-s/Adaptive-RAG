@@ -1,0 +1,13 @@
+{
+    "openai":
+    {
+        "api_key" : "sk-jaN6jKqwTnoxiSxSRhSyxw",
+        "base_url" : "http://10.10.207.13:8083/v1",
+        "model" :  "Qwen3.8-27B"
+        },
+    "qdrant" :
+    {
+        "url" : "https://10.10.207.13:8080",
+        "prefix" : "qdrant"
+    }
+}
